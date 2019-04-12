@@ -1,7 +1,8 @@
 ## Vinyl
 
 Author: Cliff Clive
-Description: Vinyl uis a recursive neural network that identifies the genre (or genres) of a song based on its groove.
+
+Description: Vinyl is a recursive neural network that identifies the genre (or genres) of a song based on its groove.
 
 ## Project Organization 
 ------------
